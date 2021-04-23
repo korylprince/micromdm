@@ -13,6 +13,7 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/context v1.1.1 // indirect
+	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.6.2
 	github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda
 	github.com/groob/plist v0.0.0-20180203051248-dd56909aee38
